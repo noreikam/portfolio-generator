@@ -8,8 +8,8 @@ const generatePage = (name, github) => {
             <meta http-equiv="X-UA-Compatible" content="ie=edge">
             <title>Portfolio Demo</title>
       </head>
-
-      <body>
+      
+    <body>
         <h1> ${name}</h1>
         <h2><a href="https://github.com/${github}">Github</a></h2>
     </body>

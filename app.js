@@ -105,7 +105,7 @@ Add a New Project
       },
       {
         type: 'confirm',
-        name: 'feature',
+        name: 'featured',
         message: 'Would you like to feature this project?',
         default: false
       },
